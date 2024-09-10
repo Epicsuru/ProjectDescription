@@ -1,0 +1,30 @@
+Project Description(Since these are company project can't give it's live demo . Hence providing short brief about it.)
+
+Project 1 :-
+Dealer Maintenance 
+Project Details : Developed a JMS-based Java service for managing dealer onboarding information. The service integrates with SAP-PRM to receive dealer information based on organization, location, agent and distributes
+this data to multiple downstream systems via JMS and RabbitMQ. Technologies Used: Java, JMS, RabbitMQ, SAP-PRM.
+
+Project 2 :-
+Wrong Recharge Reversal
+Balance Replenishment Reversal Validation
+Project Details : Developed a RESTful service responsible for evaluating the feasibility of reversing balance replenishment transactions. It ensures accurate and secure transaction reversals.
+Technologies Used: Java, Spring Boot, JDBC, MySQL.
+
+Balance Replenishment Reversal
+Project Details : Engineered a RESTful application to handle the reversal of balance replenishment transactions for prepaid accounts. The service leverages HTTPS call to target systems to ensure reliable and orderly
+processing of transaction reversals. Technologies Used: Java, Spring Boot, JMS, HTTPS, MySQL.
+
+Project 3 :- 
+Transaction Inquiry
+Project Details : Developed a RESTful application responsible for returning transaction details in real-time as they are processed. The service retrieves transaction details based on customer ID or service ID, utilizing JEP Events with Elasticsearch as the target system for efficient data retrieval and indexing.
+Technologies Used: Java, Spring Boot, RESTful APIs, Elasticsearch.
+
+Project 4 :-
+Event Tracking
+Project Details : Developed a RESTful application responsible for returning the status of different components whether tracnsaction is success, failed and inprogress. The service retrieves transaction details based on customer ID or service ID, utilizing JEP Events with Elasticsearch as the target system for efficient data retrieval and indexing.
+Technologies Used: Java, Spring Boot, RESTful APIs, Elasticsearch.
+
+Project 5 :- 
+Fwx-campaign-web-console : Created a dashboard using ReactJS, provides an intuitive interface for tracking and managing the status of various vouchers and offers.Based on the status reversal is done.
+
